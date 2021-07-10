@@ -1,9 +1,10 @@
 # 📓 papers
 
----
+---- 
+
 ## Self-Supervised Learning
 
-[A Simple Framework for Contrastive Learning of Visual Representations](https://arxiv.org/pdf/2002.05709)
+- [A Simple Framework for Contrastive Learning of Visual Representations](https://arxiv.org/pdf/2002.05709)
 
 ----
 
