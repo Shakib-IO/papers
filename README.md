@@ -1,26 +1,19 @@
 # 📓 papers<br>
 
----
-
 ## Self-Supervised Learning<br>
 
 - [A Simple Framework for Contrastive Learning of Visual Representations](https://arxiv.org/pdf/2002.05709)<br>
 
----
+
 
 ## Medical Computer Vision<br>
 
----
 
 
 ## Machine Learning<br>
 
----
 
 ## Deep Learning<br>
-
----
-
 
 
 ## Some Popular Courses<br>
