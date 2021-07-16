@@ -3,20 +3,22 @@
 ## Self-Supervised Learning<br>
 
 - [A Simple Framework for Contrastive Learning of Visual Representations](https://arxiv.org/pdf/2002.05709)<br>
-- [Positional Contrastive Learning for VolumetricMedical Image Segmentation](https://arxiv.org/abs/2106.09157)
+- [Positional Contrastive Learning for VolumetricMedical Image Segmentation](https://arxiv.org/abs/2106.09157)<br>
 
 
 
+<br>
 ## Medical Computer Vision<br>
 
 
-
+<br>
 ## Machine Learning<br>
 
-
+<br>
 ## Deep Learning<br>
 - [Distilling the Knowledge in a Neural Network](https://arxiv.org/pdf/1503.02531)
 
+<br>
 ## Some Popular Courses<br>
 Course List:
 
