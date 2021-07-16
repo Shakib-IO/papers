@@ -3,6 +3,7 @@
 ## Self-Supervised Learning<br>
 
 - [A Simple Framework for Contrastive Learning of Visual Representations](https://arxiv.org/pdf/2002.05709)<br>
+- [Positional Contrastive Learning for VolumetricMedical Image Segmentation](https://arxiv.org/abs/2106.09157)
 
 
 
