@@ -8,17 +8,21 @@
 
 
 <br>
+
 ## Medical Computer Vision<br>
 
 
 <br>
+
 ## Machine Learning<br>
 
 <br>
+
 ## Deep Learning<br>
 - [Distilling the Knowledge in a Neural Network](https://arxiv.org/pdf/1503.02531)
 
 <br>
+
 ## Some Popular Courses<br>
 Course List:
 
