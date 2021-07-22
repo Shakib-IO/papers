@@ -1,5 +1,7 @@
 # 📓 papers<br>
 
+<img alt="" src="https://img.shields.io/badge/Arxiv-%23000000.svg?style=for-the-badge&logo=Arxiv&logoColor=white"/>
+
 ## Self-Supervised Learning<br>
 
 - [A Simple Framework for Contrastive Learning of Visual Representations (SimCLR)](https://arxiv.org/pdf/2002.05709)<br>
