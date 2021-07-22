@@ -1,6 +1,6 @@
 # 📓 papers<br>
 
-<img alt="" src="https://img.shields.io/badge/Arxiv-FF6C37.svg?style=for-the-badge&logo=Arxiv&logoColor=white"/>
+<img alt="" src="https://img.shields.io/badge/Arxiv-b31b1b.svg?style=for-the-badge&logo=Arxiv&logoColor=white"/>
 
 ## Self-Supervised Learning<br>
 
