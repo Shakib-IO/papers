@@ -6,7 +6,7 @@
 
 - [A Simple Framework for Contrastive Learning of Visual Representations (SimCLR)](https://arxiv.org/pdf/2002.05709)<br>
 - [Big Self-Supervised Models are Strong Semi-Supervised Learners (SimCLRv2)](https://arxiv.org/pdf/2006.10029)<br>
-- [Positional Contrastive Learning for VolumetricMedical Image Segmentation](https://arxiv.org/abs/2106.09157)<br>
+- [Positional Contrastive Learning for Volumetric Medical Image Segmentation](https://arxiv.org/abs/2106.09157)<br>
 - [Emerging Properties in Self-Supervised Vision Transformers (DINO)](https://arxiv.org/pdf/2104.14294)
 
 
