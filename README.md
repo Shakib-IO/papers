@@ -14,7 +14,7 @@
 <br>
 
 ## Medical Computer Vision<br>
-
+- [3D Self-Supervised Methods for Medical Imaging]
 
 <br>
 
