@@ -21,7 +21,7 @@
 
 ## Deep Learning<br>
 - [Distilling the Knowledge in a Neural Network](https://arxiv.org/pdf/1503.02531)
-- [Mask R-CNN]()
+- [Mask R-CNN](https://arxiv.org/abs/1703.06870)
 
 
 <br>
