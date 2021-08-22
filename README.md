@@ -10,7 +10,6 @@
 - [Emerging Properties in Self-Supervised Vision Transformers (DINO)](https://arxiv.org/pdf/2104.14294)
 
 
-
 <br>
 
 ## Medical Computer Vision<br>
