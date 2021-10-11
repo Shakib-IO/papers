@@ -23,6 +23,7 @@
 - [Mask R-CNN](https://arxiv.org/abs/1703.06870)
 - [Image-to-Image Translation: Methods and Applications](https://arxiv.org/abs/2101.08629)
 - [Generative Adversarial Networks (GAN)](https://arxiv.org/abs/1406.2661)
+- [Unpaired Image-to-Image Translation using Cycle-Consistent Adversarial Networks (CycleGAN)]()
 
 
 <br>
