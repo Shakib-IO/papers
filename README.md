@@ -48,7 +48,7 @@ Course List:
 - [Deep Learning for Computer Vision](https://github.com/dair-ai/ML-YouTube-Courses/blob/main/README.md#deep-learning-for-computer-vision)
 - [Deep Reinforcement Learning](https://github.com/dair-ai/ML-YouTube-Courses/blob/main/README.md#deep-reinforcement-learning)
 - [Full Stack Deep Learning](https://github.com/dair-ai/ML-YouTube-Courses/blob/main/README.md#full-stack-deep-learning)
-
+- [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/)
 
 ## What's Next?
 
