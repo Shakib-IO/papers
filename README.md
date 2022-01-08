@@ -29,7 +29,7 @@
 ## Machine Learning<br>
 - [The Art of Linear Algebra](https://github.com/kenjihiranabe/The-Art-of-Linear-Algebra/blob/main/The-Art-of-Linear-Algebra.pdf)
 
-<br>
+
 
 ## Some Popular Courses<br>
 Course List:
