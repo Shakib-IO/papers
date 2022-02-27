@@ -30,7 +30,7 @@
 - [The Art of Linear Algebra](https://github.com/kenjihiranabe/The-Art-of-Linear-Algebra/blob/main/The-Art-of-Linear-Algebra.pdf)
 
 ## Books<br>
-[Practical MlOps]()
+[Practical MLOps]()
 <br>
 
 ## Some Popular Courses<br>
