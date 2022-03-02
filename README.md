@@ -36,6 +36,7 @@
 ## Some Popular Courses<br>
 Course List:
 
+
 - [Stanford CS229: Machine Learning](https://github.com/dair-ai/ML-YouTube-Courses/blob/main/README.md#stanford-cs229-machine-learning)
 - [Applied Machine Learning](https://github.com/dair-ai/ML-YouTube-Courses/blob/main/README.md#applied-machine-learning)
 - [Machine Learning with Graphs (Stanford)](https://github.com/dair-ai/ML-YouTube-Courses/blob/main/README.md#machine-learning-with-graphs-stanford)
