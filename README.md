@@ -31,7 +31,7 @@
 
 ## Books<br>
 - [Practical MLOps](https://www.oreilly.com/library/view/practical-mlops/9781098103002/)
-- [](http://themlbook.com/)
+- [The Hundred-Page Machine Learning Book](http://themlbook.com/)
 <br>
 
 ## Some Popular Courses<br>
