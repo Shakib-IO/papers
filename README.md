@@ -53,6 +53,7 @@ Course List:
 - [Deep Reinforcement Learning](https://github.com/dair-ai/ML-YouTube-Courses/blob/main/README.md#deep-reinforcement-learning)
 - [Full Stack Deep Learning](https://github.com/dair-ai/ML-YouTube-Courses/blob/main/README.md#full-stack-deep-learning)
 - [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/)
+- [Machine Learning Glossary](https://ml-cheatsheet.readthedocs.io/en/latest/index.html)
 
 ## What's Next?
 
