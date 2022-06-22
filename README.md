@@ -61,5 +61,5 @@ Course List:
 
 ## What's Next?
 
-There are many plans to keep improving this collection. For instance, I will be sharing notes and better organizing individual lectures in a way that provides a bit of guidance for those that are getting started with machine learning.
+There are many plans to keep improving this collection. For instance, I will be sharing notes and better organizing individual lectures in a way that provides a bit of guidance for those that are getting started with machine learning
 
