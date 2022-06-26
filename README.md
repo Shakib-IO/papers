@@ -14,7 +14,7 @@
 
 ## Medical Computer Vision<br>
 - [3D Self-Supervised Methods for Medical Imaging](https://arxiv.org/abs/2006.03829)<br>
-- 
+
 <br>
 
 
@@ -57,6 +57,7 @@ Course List:
 - [Machine Learning Glossary](https://ml-cheatsheet.readthedocs.io/en/latest/index.html)
 - [Deep Learning Drizzle](https://deep-learning-drizzle.github.io/index.html)
 - [Python Programming And Numerical Methods](https://pythonnumericalmethods.berkeley.edu/notebooks/Index.html)
+- [CS224n: Natural Language Processing with Deep Learning](https://web.stanford.edu/class/cs224n/)
 
 
 ## What's Next?
