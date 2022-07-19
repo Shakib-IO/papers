@@ -3,19 +3,14 @@
 <img alt="" src="https://img.shields.io/badge/Arxiv-b31b1b.svg?style=for-the-badge&logo=Arxiv&logoColor=white"/> <img alt="" src="https://img.shields.io/badge/PaperWithCode-0297b1.svg?style=for-the-badge&logo=PaperWithCode&logoColor=white"/>
 
 ## Self-Supervised Learning<br>
-
 - [A Simple Framework for Contrastive Learning of Visual Representations (SimCLR)](https://arxiv.org/pdf/2002.05709)<br>
 - [Big Self-Supervised Models are Strong Semi-Supervised Learners (SimCLRv2)](https://arxiv.org/pdf/2006.10029)<br>
 - [Positional Contrastive Learning for Volumetric Medical Image Segmentation](https://arxiv.org/abs/2106.09157)<br>
 - [Emerging Properties in Self-Supervised Vision Transformers (DINO)](https://arxiv.org/pdf/2104.14294)
 
 
-<br>
-
 ## Medical Computer Vision<br>
 - [3D Self-Supervised Methods for Medical Imaging](https://arxiv.org/abs/2006.03829)<br>
-
-<br>
 
 
 ## Deep Learning<br>
@@ -24,21 +19,24 @@
 - [Image-to-Image Translation: Methods and Applications](https://arxiv.org/abs/2101.08629)
 - [Generative Adversarial Networks (GAN)](https://arxiv.org/abs/1406.2661)
 - [Unpaired Image-to-Image Translation using Cycle-Consistent Adversarial Networks (CycleGAN)](https://arxiv.org/abs/1703.10593)
-<br>
-- 
+
+
+## Federated Learning<br>
+- [Model-Contrastive Federated Learning](https://arxiv.org/abs/2103.16257)
+
 
 ## Machine Learning<br>
 - [The Art of Linear Algebra](https://github.com/kenjihiranabe/The-Art-of-Linear-Algebra/blob/main/The-Art-of-Linear-Algebra.pdf)
 - [CS229: Machine Learning](https://aman.ai/cs229/)
 
+
 ## Books<br>
 - [Practical MLOps](https://www.oreilly.com/library/view/practical-mlops/9781098103002/)
 - [The Hundred-Page Machine Learning Book](http://themlbook.com/)
-<br>
+
 
 ## Some Popular Courses<br>
 Course List:
-
 
 - [Stanford CS229: Machine Learning](https://github.com/dair-ai/ML-YouTube-Courses/blob/main/README.md#stanford-cs229-machine-learning)
 - [Applied Machine Learning](https://github.com/dair-ai/ML-YouTube-Courses/blob/main/README.md#applied-machine-learning)
