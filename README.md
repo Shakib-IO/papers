@@ -22,7 +22,7 @@
 
 ## Federated Learning<br>
 - [Model-Contrastive Federated Learning](https://arxiv.org/abs/2103.16257)
-- Federated Optimization in Heterogeneous Networks
+- Federated Optimization in Heterogeneous Networks]
 -
 
 
