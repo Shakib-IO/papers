@@ -25,6 +25,7 @@
 - [Federated Optimization in Heterogeneous Networks](https://arxiv.org/pdf/1812.06127)
 -
 
+## graph Neural Networks
 
 ## Machine Learning<br>
 - [The Art of Linear Algebra](https://github.com/kenjihiranabe/The-Art-of-Linear-Algebra/blob/main/The-Art-of-Linear-Algebra.pdf)
