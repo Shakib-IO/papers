@@ -60,6 +60,7 @@ Course List:
 - [Python Programming And Numerical Methods](https://pythonnumericalmethods.berkeley.edu/notebooks/Index.html)
 - [CS224n: Natural Language Processing with Deep Learning](https://web.stanford.edu/class/cs224n/)
 - [NYU Deep Learning Spring 2021 - NYU-DLSP21](https://cds.nyu.edu/deep-learning/)
+- [MultiModal Machine Learning](https://cmu-multicomp-lab.github.io/mmml-course/fall2020/)
 
 ## What's Next?
 
