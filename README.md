@@ -62,6 +62,12 @@ Course List:
 - [NYU Deep Learning Spring 2021 - NYU-DLSP21](https://cds.nyu.edu/deep-learning/)
 - [MultiModal Machine Learning](https://cmu-multicomp-lab.github.io/mmml-course/fall2020/)
 
+## Books<br>
+
+- [PaperSpaceBlog](https://blog.paperspace.com/)
+- [Distill](https://distill.pub/)
+
+
 ## What's Next?
 
 There are many plans to keep improving this collection. For instance, I will be sharing notes and better organizing individual lectures in a way that provides a bit of guidance for those that are getting started with machine learning
